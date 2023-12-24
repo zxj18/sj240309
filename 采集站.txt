@@ -124,7 +124,7 @@
 },
 {
       "key": "好趣网",
-      "name": "🇹┃好趣网┃直播",
+      "name": "🇹好趣网电视直播",
       "type": 3,
       "api": "./lib/apiv75apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
@@ -1069,7 +1069,7 @@
     {      "key": "U酷资源",      "name": "🐹U酷",      "type": 1,      "api": "https://api.ukuapi.com/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1    },
 
  {      "key": "奇虎资源",      "name": "🦁奇虎",      "type": 1,      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",      "playUrl": "",      "searchable": 1,      "quickSearch": 1    },
-{
+    {
       "key": "csp_XYQHiker素白白",
       "name": "🦈素白白",
       "type": 3,
@@ -1077,9 +1077,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/pvghL/%E7%B4%A0%E7%99%BD%E7%99%BD.json",
-      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
+      "ext": "./lib/素白白.json",
+      "jar": "./lib/custom_spider5677.jar"
     },
+
 {
        "key":"bdcili",
        "name":"⛽️哔嘀4k",
