@@ -38,6 +38,8 @@
 				"体育赛事"
 			]
 },
+{      "key": "至圣云(官）",      "name": "❤️️圣云秒播",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
+
 { "key": "横版影院", "name": "🍱横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ], "jar": "./lib/jar.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
    
 {
@@ -173,7 +175,6 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
-{      "key": "至圣云(官）",      "name": "♻️圣云资源",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
 
    
 		
@@ -249,8 +250,7 @@
 				"欧美综艺"
 			]
 		},
-    {      "key": "小小影视",      "name": "❗️小小资源",      "type": 1,      "api": "http://haowywz.com/api.php/provide/vod/"},    {      "key": "熊掌资源",      "name": "🐻熊掌资源",      "type": 1,      "api": "https://xzcjz.com/api.php/provide/vod/"},    {      "key": "至圣云(官）",      "name": "♻️圣云资源",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
-		{
+    {      "key": "小小影视",      "name": "💘️小小资源",      "type": 1,      "api": "http://haowywz.com/api.php/provide/vod/"},    {      "key": "熊掌资源",      "name": "🐻熊掌资源",      "type": 1,      "api": "https://xzcjz.com/api.php/provide/vod/"},    		{
             "key": "MV_vod",
             "name": "🎹MV",
             "type": 1,
