@@ -173,6 +173,8 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
+{      "key": "至圣云(官）",      "name": "♻️圣云资源",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
+
    
 		
 {"key":"橘子","name":"🍊橘子","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
@@ -247,6 +249,7 @@
 				"欧美综艺"
 			]
 		},
+    {      "key": "小小影视",      "name": "❗️小小资源",      "type": 1,      "api": "http://haowywz.com/api.php/provide/vod/"},    {      "key": "熊掌资源",      "name": "🐻熊掌资源",      "type": 1,      "api": "https://xzcjz.com/api.php/provide/vod/"},    {      "key": "至圣云(官）",      "name": "♻️圣云资源",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
 		{
             "key": "MV_vod",
             "name": "🎹MV",
@@ -259,7 +262,7 @@
 {"key":"酷奇js","name":"🎤酷奇MV","type": 3,"api":"./lib/apiv784apiv683drpy2.min.js","ext":"./lib/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
  {
             "key": "A8音乐",
-            "name": "🎧A8┃MV",
+            "name": "🎧A8MV",
             "type": 3,
             "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
             "style": {
@@ -276,7 +279,7 @@
 
  {
             "key": "DJ哟哟音乐网",
-            "name": "🎧DJ哟哟┃音乐",
+            "name": "🎧DJ哟哟",
             "type": 3,
             "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 0,
@@ -288,7 +291,7 @@
 
     {
             "key": "啦啦DJ音乐网",
-            "name": "🎧啦啦DJ┃音乐",
+            "name": "🎧啦啦DJ",
             "type": 3,
             "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 0,
