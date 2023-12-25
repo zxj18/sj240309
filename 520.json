@@ -39,7 +39,7 @@
 			]
 },
 {      "key": "至圣云(官）",      "name": "❤️️圣云秒播",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
-
+    {      "key": "高清资源网",      "name": "️💮1080采集",      "type": 1,      "api": "https://api.1080zyku.com/inc/apijson.php",      "playUrl": "https://vip.zykbf.com/?url=",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "categories": [        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "记录片",        "国产剧",        "欧美剧",        "日本剧",        "泰国剧",        "韩国剧",        "台湾剧",        "香港剧",        "大陆综艺",        "港台综艺",        "日韩综艺",        "欧美综艺",        "国产动漫",        "日韩动漫",        "欧美动漫",        "倫理片",        "福利"      ]    },
 { "key": "横版影院", "name": "🍱横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ], "jar": "./lib/jar.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
    
 {
