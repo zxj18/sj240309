@@ -257,6 +257,47 @@
             "filterable": 1
         },
 {"key":"酷奇js","name":"🎤酷奇MV","type": 3,"api":"./lib/apiv784apiv683drpy2.min.js","ext":"./lib/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+ {
+            "key": "A8音乐",
+            "name": "🎧A8MV",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://drpy.cainisi.cf/js/A8音乐.js"
+        },
+
+
+ {
+            "key": "DJ哟哟音乐网",
+            "name": "🎧DJ哟哟",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://drpy.cainisi.cf/js/DJ音乐.js"
+        },
+
+    {
+            "key": "啦啦DJ音乐网",
+            "name": "🎧啦啦DJ",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://drpy.cainisi.cf/js/啦啦DJ.js"
+        },
+
 
 {"key":"Bili","name":"🅱哔哩","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./lib/bilibili.json"},
 {"key":"Biliych","name":"🅱哔哩歌曲","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./lib/biliych.json"},
