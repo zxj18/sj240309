@@ -570,7 +570,7 @@
     },
     {
       "key": "csp_AppYsV2_Mxone",
-      "name": "🧡短剧十",
+      "name": "♻️mxone短剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -581,7 +581,7 @@
     
     		{
 			"key": "XBPQ_duanju5",
-			"name": "💛短剧十二",
+			"name": "🧚‍♀️轻盈短剧",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -594,7 +594,7 @@
 
     {
       "key": "csp_XBPQ_aoaotv",
-      "name": "💙短剧十四",
+      "name": "🎾秋哥短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
