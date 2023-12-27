@@ -137,9 +137,9 @@
 },
 {
       "key": "好趣网",
-      "name": "🇹好趣网电视直播",
+      "name": "🇹好趣网直播",
       "type": 3,
-      "api": "./lib/apiv424apiv75apiv43drpy2.min.js",
+      "api": "./lib/apiv109apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
     },
 
