@@ -156,7 +156,7 @@
     
      {
       "key": "爱迪",
-      "name": "🍑欧美爱迪",
+      "name": "🍑欧美电视剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -175,6 +175,12 @@
 			"filterable": 1,
 			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
         },
+{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.aueteys.com/"},
+{"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"key":"csp_MYYS","name":"🐜蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
+{"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
 
 
 {"key": "py_cctv","name": "🇨🇳央视大全","type": 3,"api": "py_cctv",
