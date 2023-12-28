@@ -174,7 +174,10 @@
                 "筛选": "1"
             }
         },
-    
+{"key":"DYDS","name":"👨🏿‍🍳电影大师","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","分类url":"https://dyds36.cyou/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$3#动漫$4#综艺$23"}},
+
+    {"key": "大米星球","name": "🍚大米星球","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/大米星球.json"},
+
      {
       "key": "爱迪",
       "name": "🍑欧美爱迪",
