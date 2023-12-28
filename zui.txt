@@ -1295,6 +1295,11 @@
       "ext": "https://www.69mj.com/xgapp.php/v2/"
     },
 
+{"key": "py_cctv","name": "🇨🇳央视大全","type": 3,"api": "py_cctv",
+"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/py_cctv.json"},
+{"key":"py_cctvdc","name":"🇨🇳央视片库","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/py_cctvdc.json"},
+
+
 {"key":"drpy_js_影渣渣","name":"♻️影渣","type":3,"api":"./lib/apiv3826复件 drpy2.min.js?sign=DbD6J6cD1ulkdzxVGXPfEQBTnBzmV8X810P07f7cVak=:0","ext":"./lib/复件 影渣渣.js"},
 {"key":"虎牙直播js","name":"🐯虎牙","type":3,"api":"./lib/apiv784apiv683drpy2.min.js","ext":"./lib/虎牙直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼","type":3,"api":"./lib/apiv784apiv683drpy2.min.js","ext":"./lib/斗鱼直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
