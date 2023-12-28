@@ -1,7 +1,8 @@
 ﻿{
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;3a1219034ed657f925c606543689b8cf",
-"spider": "./lib/Yoursmile.jar;md5;a8b67c6e7ae00f56c43f6946764f0102",
- 
+"spider": "./lib/dj0.jar",
+
+	"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
 
@@ -40,8 +41,6 @@
 {      "key": "至圣云(官）",      "name": "🚒圣云秒播",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
 
 { "key": "横版影院", "name": "🍱横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ], "jar": "./lib/jar.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
-  {"key": "dr_ikanbot","name": "🌸爱看机器人","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},  
-
  {
             "key": "XBPQ_葡萄",
             "name": "🍇葡萄短剧",
@@ -137,9 +136,9 @@
 },
 {
       "key": "好趣网",
-      "name": "🇹好趣网直播",
+      "name": "🇹好趣网电视直播",
       "type": 3,
-      "api": "./lib/apiv43drpy2.min.js",
+      "api": "./lib/apiv424apiv75apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
     },
 
@@ -396,6 +395,7 @@
 				"欧美综艺"
 			]
 		},
+{"key": "dr_ikanbot","name": "🌺机器","type": 3,"api": "./lib/apiv1448apiv956drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "./lib/ikanbot3.js"},
 
   
   {
