@@ -2,8 +2,7 @@
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;3a1219034ed657f925c606543689b8cf",
 "spider": "./lib/dj0.jar",
 
-"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
- 
+	"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
 
@@ -137,9 +136,9 @@
 },
 {
       "key": "好趣网",
-      "name": "🇹好趣网直播",
+      "name": "🇹好趣网电视直播",
       "type": 3,
-      "api": "./lib/apiv109apiv43drpy2.min.js",
+      "api": "./lib/apiv424apiv75apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
     },
 
