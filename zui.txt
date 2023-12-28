@@ -202,6 +202,7 @@
 {"key":"csp_MYYS","name":"🐜蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 { "key": "挂影院", "name": "💠听听影院", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [  "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "电影解说", "足球", "篮球", "网球", "斯诺克", "预告片" ] }, 
+{"key":"纽约影视","name":"🇺🇸纽约影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","图片":"data-src=\"&&\"","线路数组":"a class=\"swiper-slide&&</a>[排序:国内节点>国内专线>\u516c\u5b50\u4e13\u5c5e-2>\u516c\u5b50\u4e13\u5c5e-3]","\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e-+>&&</span>","播放数组":"anthology-list-play&&</ul>","搜索模式":1,"搜索url":"https://nycvod.com/vodsearch/{wd}----------{pg}---.html","搜索标题":"alt=\"&&\"","搜索图片":"data-src=\"&&\"","分类url":"https://nycvod.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$28#电视剧$24#综艺$31#动漫$26","免嗅":"1"}},
 
 
 {
@@ -211,6 +212,15 @@
       "api": "./lib/apiv402drpy2.min.js",
       "ext": "./lib/changmeng.js"
     },
+{"key":"喝茶影院","name":"🍵喝茶影院","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","线路数组": "<h3&&</h3>[排序:公子专用2>公子专用1]",
+"线路标题":"公子专用","分类":"电影$1#电视剧$2#综艺$4#动漫$3","分类url":"https://www.jm332.com/vod/type/id/area/{area}/class/{class}/{cateId}/page/{catePg}/year/{year}.html"}},
+
+{"key":"HLTV","name": "☯️华乐影院","type": 3,"api": "csp_XBPQ","ext": {"图片":"data-src=\"&&\"","线路标题":"</i>&nbsp;&&</a>","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","分类url":"https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}},
+{"key":"zy_鸡婆","name":"🐣鸡婆采集","type":1,"api":"https://www.jipo.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+
+
+
     {
       "key": "鑫鑫影视",
       "name": "🍩鑫鑫",
