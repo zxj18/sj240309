@@ -1,6 +1,5 @@
 ﻿{
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;3a1219034ed657f925c606543689b8cf",
-"spider": "./lib/dj0.jar",
 
 "spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
  
