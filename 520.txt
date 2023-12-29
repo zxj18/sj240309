@@ -160,13 +160,13 @@
 			"ext": "https://pan.shangui.cc/f/w37nTg/xiaoya.txt",
 			"jar": "https://pan.shangui.cc/f/Kz7AU6/custom_spider.jar"
 		},
-{"key":"DYDS","name":"👨🏿‍🍳电影大师","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","分类url":"https://dyds36.cyou/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$3#动漫$4#综艺$23"}},
+{"key":"DYDS","name":"‍🍳电影大师","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","分类url":"https://dyds36.cyou/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$3#动漫$4#综艺$23"}},
 
     {"key": "大米星球","name": "🍚大米星球","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/大米星球.json"},
 
      {
       "key": "爱迪",
-      "name": "🍑欧美爱迪",
+      "name": "🍑欧美电视剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -233,7 +233,7 @@
 
    
 		
-{"key":"橘子","name":"🍊橘子","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
+/*{"key":"橘子","name":"🍊橘子","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},*/
 
 {"key":"豆豆","name":"🌕豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"玩偶哥哥","name":"👽玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
@@ -305,7 +305,8 @@
 				"欧美综艺"
 			]
 		},
-    {      "key": "小小影视",      "name": "💘️小小资源",      "type": 1,      "api": "http://haowywz.com/api.php/provide/vod/"},    {      "key": "熊掌资源",      "name": "🐻熊掌资源",      "type": 1,      "api": "https://xzcjz.com/api.php/provide/vod/"},    		{
+    {      "key": "小小影视",      "name": "💘️小小资源",      "type": 1,      "api": "http://haowywz.com/api.php/provide/vod/"},   /* {      "key": "熊掌资源",      "name": "🐻熊掌资源",      "type": 1,      "api": "https://xzcjz.com/api.php/provide/vod/"}, */		
+{
             "key": "MV_vod",
             "name": "🎹MV",
             "type": 1,
@@ -399,12 +400,12 @@
 				"欧美综艺"
 			]
 		},
-{"key": "dr_ikanbot","name": "🌺机器","type": 3,"api": "./lib/apiv956drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "./lib/ikanbot3.js"},
+{"key": "dr_ikanbot","name": "🌺爱看机器人","type": 3,"api": "./lib/apiv956drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "./lib/ikanbot3.js"},
 
   
   {
             "key": "js_电影先生",
-            "name": "🤵先生",
+            "name": "🤵电影先生",
             "type": 3,
             "api": "./lib/apiv980apiv569apiv15drpy2.min.js",
             "searchable": 1,
@@ -671,13 +672,15 @@
 			"filterable": 1,
 			"ext": "./lib/yanchanghui.txt"
 		},
-"name": "❤️CatBox专享 |4K磁力",
+        {"key": "csp_XBPQ_6V",
+  "name": "❤️CatBox专享 |4K磁力",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"}, 
+
 {"key": "csp_Mp4Mov","name": "❤️CatBox专享 |Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
         {"key": "csp_New6v","name": "❤️CatBox专享 |新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
         {"key":"csp_KubaCL","name":"❤️CatBox专享 |酷吧电影","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
