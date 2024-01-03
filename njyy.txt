@@ -1,4 +1,63 @@
-﻿💜央视频道,#genre#
+﻿❤️央视频道,#genre#
+中央1高清,http://111.225.115.9:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+中央2高清,http://111.225.115.9:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+中央3标清,http://111.225.115.9:808/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+中央4高清,http://111.225.115.9:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+中央5标清,http://111.225.115.9:808/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+中央5+高清,http://111.225.115.9:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+中央6标清,http://111.225.115.9:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+中央7高清,http://111.225.115.9:808/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+中央8标清,http://111.225.115.9:808/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+中央9高清,http://111.225.115.9:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+中央10高清,http://111.225.115.9:808/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+中央11高清,http://111.225.115.9:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+中央12高清,http://111.225.115.9:808/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+中央13高清,http://111.225.115.9:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+中央14高清,http://111.225.115.9:808/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+中央15高清,http://111.225.115.9:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+中央17高清,http://111.225.115.9:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-03 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-04 中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-05 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV+5+ 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-06 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-07 国防,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-08 电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-09 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12 社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16 奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17 农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+
+CCTV-01*综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+CCTV-02*财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-03*综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 
+CCTV-04*国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-05*体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-05+体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-06*电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-07*军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8 
+CCTV-08*电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-09*纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10*科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11*戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV-12*社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13*新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14*少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8 
+CCTV-16*奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8 
+
+
+💜央视频道,#genre#
 
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
