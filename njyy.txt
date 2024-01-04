@@ -3728,7 +3728,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 2023.12.3,http://alivod.a.yximgs.com/livedvr2/flv2ts/gifshow/uDCHJLa_rGc.1701611971347-23865101.0-16.m3u8?auth_key=1704564075-716776641-0-5cdee652adfa4aa26b1fb46a44265fa6
 
 
-🍧小沈阳歌,#genre#
+
 如果你还在就好了,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1X0lKUnpqckZ2X-WmguaenOS9oOi_mOWcqOWwseWlveS6hi5tcDQ/%E5%A6%82%E6%9E%9C%E4%BD%A0%E8%BF%98%E5%9C%A8%E5%B0%B1%E5%A5%BD%E4%BA%86.mp4?sign=8ehKB_NBaVD3SMUr_N0cGPAasmHGStpQXMlCO8CaII8%3D%3A0
 依兰爱情故事,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1XzY2MnVjdzdLX-S-neWFsOeIseaDheaVheS6iy5tcDQ/%E4%BE%9D%E5%85%B0%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B.mp4?sign=JtF00Bt8noGG4l4x7Y9XrmJoSmU_vi9CN22xeMgeuh0%3D%3A0
 东北民谣,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1XzM1c0t6NmpxX-S4nOWMl-awkeiwoy5tcDQ/%E4%B8%9C%E5%8C%97%E6%B0%91%E8%B0%A3.mp4?sign=zGQJir6SUwn23ZvDxoMe4oHNfPpoahb9DxVhs0CP8i4%3D%3A0
@@ -3768,7 +3768,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 男人歌MV,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1XzZRSkdyZ0J6X-eUt-S6uuatjE1WLm1wNA/%E7%94%B7%E4%BA%BA%E6%AD%8CMV.mp4?sign=QvRRVvsa4lQn_en1IZ-LiSXYOOf13HpnTtNY0GWXUS0%3D%3A0
 大海,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1X3RNVUN6VGdzX-Wkp-a1ty5tcDQ/%E5%A4%A7%E6%B5%B7.mp4?sign=PKLbVgrkIGaHpbofGcIzp1O8_6YF91b7Evf3Q0bNtSM%3D%3A0
 
-🍧少女时代,#genre#
+
 0001-MV,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyNDAxLzAyLzE3OTI1XzI3dnJsTk4zXzAwMDI2Lm1wNA/00001.mp4?sign=Qo-AfIQbpam9qXz2JlXgibA08tm39WJjrQxirojg9UY%3D%3A0
 0002-MV,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyNDAxLzAyLzE3OTI1X2NTUnJyTElzXzAwMDI0Lm1wNA/00002.mp4?sign=Ew6xuUQP5E7a3g58XVYoIS0xCbd07igjyJPhJfIl-R4%3D%3A0
 0003-MV,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyNDAxLzAyLzE3OTI1X291SGdZbnZ1XzAwMDIzLm1wNA/00003.mp4?sign=9VKJ_rdiPLEC_4ACDsUK11S95AgihiabqX8XbDPGdos%3D%3A0
@@ -3967,7 +3967,7 @@ MV合集,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyNDAxLz
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 
 
-📡百视有线,#genre#
+
 百视独播,https://bp-caster.bestv.com.cn/944/3/video.m3u8
 百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
 百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
@@ -3991,7 +3991,7 @@ MV合集,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyNDAxLz
 
 
 
-📡央视频道,#genre#
+🍉央视频道,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -4084,7 +4084,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 
 
-📡移动央卫,#genre#
+🍉移动央卫,#genre#
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
@@ -4136,7 +4136,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-电信央卫,#genre#
+
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3,http://live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -4221,7 +4221,7 @@ CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CO
 
 
 
-📡卫视频道,#genre#
+🍉卫视频道,#genre#
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
