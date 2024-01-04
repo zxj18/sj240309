@@ -1,5 +1,5 @@
 ﻿
-🌺中国频道👉一帆,#genre#
+🌺中国频道❤️一帆,#genre#
 CCTV-13全网,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13全网,http://182.32.204.113:9901/tsfile/live/0013_1.m3u8?by=angtv
 CCTV-13IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
@@ -38,7 +38,7 @@ EZTV6台全网,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=166081467
 世界地理全网,http://cfss.cc/ds/ysp/qp.php?id=sjdl&Cf.m3u8
 动物星球全网,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-🌹央视频道👉风顺,#genre#
+🌹央视频道❤️风顺,#genre#
 
 CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -79,7 +79,7 @@ CCTV-16*奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/ind
 CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8 
 
 
-💐央视频道👉恭喜,#genre#
+💐央视频道❤️恭喜,#genre#
 
 CCTV01移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV02移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -119,7 +119,7 @@ CCTV-15电信移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122578
 CCTV-16电信移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-17电信移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 
-🍀央视频道👉发财,#genre#
+🍀央视频道❤️发财,#genre#
 CCTV01IPV6超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 CCTV02IPV6超清,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/1/224/3221228487/index.m3u8
 CCTV03IPV6超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
