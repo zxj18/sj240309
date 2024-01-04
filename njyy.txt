@@ -1112,7 +1112,7 @@ CHC动作仅ipv6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/i
 CHC动作影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
 CHC家庭影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
 CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
-🏖精选电视剧,#genre#
+
 yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 yy电视剧,http://mmitv.top/pltv/yy.php?id=28099939
 地下交通站,http://mmitv.top/pltv/yy.php?id=1353428972&uid=2463800499
