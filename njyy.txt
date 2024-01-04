@@ -1,16 +1,4 @@
-﻿📡永久免费👉公告,#genre#
-🌺春🌺永久免费,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-🌺盈🌺请勿购买,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
-🌺天🌺谨防受骗,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
-🌺下🌺如果付款,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-🌺公🌺说明上当,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-🌺告🌺申请退款,https://pi.0472.org/tv/asam.php?auth=231110#https://pi.0472.org/tv/asam.php?auth=2310201855
-👉👉把家里路由器,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-👉👉换成支持ipv6,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-👉👉支持所有线路,http://159.75.85.63:35455/douyu/747764
-👉👉直播高清流畅,http://159.75.85.63:35455/douyu/96577
-👉👉更换享受超清,http://159.75.85.63:35455/douyu/3928
-
+﻿
 📡中国频道👉春盈,#genre#
 CCTV-13全网,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13全网,http://182.32.204.113:9901/tsfile/live/0013_1.m3u8?by=angtv
@@ -2637,7 +2625,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 欧洲华06,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe 
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-辣辣回放,#genre#
+
 辣辣,http://alimov2.a.kwimgs.com/upic/2022/09/27/19/BMjAyMjA5MjcxOTM2NTdfMTgzMjc0ODI1Xzg1MTI2MTkwMzM3XzJfMw==_hd15_Ba4a9c1085788e061ae0514cb120879b1.mp4?tag=1-1703336644-p-0-sbozdhuxry-ead92736e9ee09a2&clientCacheKey=3xzw46wvsf3vwhu_hd15.mp4&di=2407c32b&bp=10460&tt=hd15&ss=vp
 
 
@@ -2667,7 +2655,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 2023.12.2,http://alivod.a.yximgs.com/livedvr2/flv2ts/gifshow/Zwmmf4dMJuk.1701522024749-20861815.0-16.m3u8?auth_key=1704625982-2146364778-0-d86e0996ea1b10a34b65870b08b88de6
 2023.12.1,http://alivod.a.yximgs.com/livedvr2/flv2ts/gifshow/nyEdb-oIMGo.1701435584298-17055633.0-16.m3u8?auth_key=1704625982-85171080-0-7ce8cd50b62cb4827b141c7b185863c0
 
-嘴强百里,#genre#
+
 
 2024.01.02,http://txvod.a.yximgs.com/livedvr/flv2ts/gifshow/KhqrOaFN3gM.1704196765862-25530986.0-16.m3u8?sign=1704870013-4997517505140008675-0-e9b9fe488a2a722670e024406c35f64a
 2024.01.01,http://alivod.a.yximgs.com/livedvr/flv2ts/gifshow/zB9RYStvgQM.1704110274745-29783828.0-16.m3u8?auth_key=1704871813-1871248354-0-2d237b364f7c260a7843df668b7e8b31
@@ -2939,34 +2927,6 @@ MV合集,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyNDAxLz
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 
-📢无聊公告,#genre#
-电信网用电信线路,http://k0u75y44y2fy15zw240ex958x12x300xx15z.djvod.ndcimgs.com/bs3/video-hls/5235997619415489284_hlsfmuhvnus.m3u8?sdktyv=v1&ocid=365&type=cold&ss=vp
-移动网用移动线路,http://k0u75y44y2fy15zw240ex958x12x300xx15z.djvod.ndcimgs.com/bs3/video-hls/5235997619415489284_hlsfmuhvnus.m3u8?sdktyv=v1&ocid=365&type=cold&ss=vp
-
-✳️接口与源,#genre#
-QQ 群:40131277,http://v4-vod.kwaicdn.com/bs3/video-hls/5235434685647508748_hlsfV5UltraV8.m3u8?pkey=AAUvVvSaGY7lMw6bRy3M947zQ8prMOO9SDg7Uv01dHsN8FPFXri8q5qazUPACwVu7ZcWS0nlHzgp6Re0E141Cwz9L30PHkCdbP_yXDtqvjJvAJRZ6VfqWpPfvPf2703DHsc&ss=vp
-公众号:wushishi-1,http://k0u75y44y2fy15zw240ex958x12x300xx15z.djvod.ndcimgs.com/bs3/video-hls/5235997619415489284_hlsfmuhvnus.m3u8?sdktyv=v1&ocid=365&type=cold&ss=vp
-网   址:xzitv.top,http://v4-vod.kwaicdn.com/bs3/video-hls/5235434685647508748_hlsfV5UltraV8.m3u8?pkey=AAUvVvSaGY7lMw6bRy3M947zQ8prMOO9SDg7Uv01dHsN8FPFXri8q5qazUPACwVu7ZcWS0nlHzgp6Re0E141Cwz9L30PHkCdbP_yXDtqvjJvAJRZ6VfqWpPfvPf2703DHsc&ss=vp
-
-🔧查看帮助,#genre#
-
-本软件操作,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1X3N6TVFiN01oX2pjLmZsdg/jc.flv?sign=vFw9ntnPWFJeDH6d6MLERpKZ2ToAIdEzInSoJrsos9k%3D%3A0
-本软件操作,http://www.xzitv.top/v/jc.flv
-
-
-配置本地源,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1X1ZPc0M1OWV2X2pjMi5tcDQ/jc2.mp4?sign=QoFntNWRLin5gTtXu9sYjBzXG7aJFEEUV_iawBdN-A4%3D%3A0
-
-TVBOX助手推送,http://txmov2.a.kwimgs.com/bs2/photo-video-mz/1_5235716163732180024_sl200hd15_97dba64e5b807ecc.151281.v0.mp4?tag=1-1703335683-p-1-577sf9knwy-f1791be91e50604d&clientCacheKey=3xiqqh7m9pj8x8a_fb1d6be0&di=2407c32b&bp=10460&tt=sl200hd15&ss=vp
-TVBOX助手推送,http://58.222.38.32/txmov2.a.kwimgs.com/bs2/photo-video-mz/1_5235716163732180024_sl200hd15_97dba64e5b807ecc.151281.v0.mp4?mkey=lego_ztc&f=00&sche_type=7&tag=1-1703335683-p-1-577sf9knwy-f1791be91e50604d&clientCacheKey=3xiqqh7m9pj8x8a_fb1d6be0&di=2407c32b&bp=10460&tt=sl200hd15&ss=vp&cip=36.7.195.43&plat_type=lego
-TVBOX助手推送,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1X0hhNUNSSHZjX2pjMy5tcDQ/jc3.mp4?sign=YGA6JFUPCCbuVU1Yxwhs_uK3K8ioaUC6VIEBw76TizQ%3D%3A0
-
-TVBOX配置接口,http://117.68.47.9/bs3/video-hls/1_5193494918685287733_hlsfsl200hd15_b8b4d603af18da39.6fd477.v0.m3u8?sdktyv=v1&ocid=365&type=cold&ss=vp
-TVBOX配置接口,http://k0u75y44y2fy9zw240ex958x12x300xx9z.djvod.ndcimgs.com/bs3/video-hls/5193494918685287733_hlsfb.m3u8?sdktyv=v1&ocid=365&type=cold&ss=vp
-TVBOX配置接口,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1X3h4SFo4ZG52X2pjNC5tcDQ/jc4.mp4?sign=w4I65X24rwC7Wu4dEKXYfEQqStGSMXI8haRjG6-gTLg%3D%3A0
-
-IPV6开启,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTc5MjUvMjAyMzEyLzMxLzE3OTI1X0FubXlPOGRZX2pjNS5tcDQ/jc5.mp4?sign=en5ZOtpVQaBGtuT6g60GWuOjJpf123Zr4CMcFnBjITw%3D%3A0
-IPV6开启,https://pan.shangui.cc/f/v33ntk/jc5.mp4
-公众号【天微科技】240101更新
 
 📡百视有线,#genre#
 百视独播,https://bp-caster.bestv.com.cn/944/3/video.m3u8
@@ -5979,36 +5939,3 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 
 
 
-㊙频道密码,#genre#
-关注公众号,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
-天微科技,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
-获取密码,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmJbV4gUogpLGkgM.mp4
-
-
- 🔞9+9测试_8688,#genre#
-韩国太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
-韩国太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
-韩国太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
-韩国太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
-韩国太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
-韩国太妍07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
-韩国太妍08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
-韩国太妍09,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
-韩国太妍10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
-韩国太妍11,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
-韩国太妍12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
-韩国太妍13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
-韩国太妍14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
-韩国太妍15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
-韩国太妍16,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
-韩国太妍17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
-韩国太妍18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
-韩国太妍19,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
-韩国太妍20,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
-韩国太妍21,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
-韩国太妍22,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
-韩国太妍23,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
-韩国太妍24,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
-韩国太妍25,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
-韩国太妍26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
-韩国太妍27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
