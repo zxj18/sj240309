@@ -1,5 +1,5 @@
 ﻿
-📡中国频道👉春盈,#genre#
+🌺中国频道👉春盈,#genre#
 CCTV-13全网,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13全网,http://182.32.204.113:9901/tsfile/live/0013_1.m3u8?by=angtv
 CCTV-13IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
@@ -38,7 +38,7 @@ EZTV6台全网,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=166081467
 世界地理全网,http://cfss.cc/ds/ysp/qp.php?id=sjdl&Cf.m3u8
 动物星球全网,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-📡央视频道👉天下,#genre#
+🌹央视频道👉天下,#genre#
 
 CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -79,7 +79,7 @@ CCTV-16*奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/ind
 CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8 
 
 
-📡央视频道👉移动,#genre#
+💐央视频道👉移动,#genre#
 
 CCTV01移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV02移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -119,7 +119,7 @@ CCTV-15电信移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122578
 CCTV-16电信移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-17电信移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 
-📡央视频道👉IPV6,#genre#
+🍀央视频道👉IPV6,#genre#
 CCTV01IPV6超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 CCTV02IPV6超清,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/1/224/3221228487/index.m3u8
 CCTV03IPV6超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
@@ -239,7 +239,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 地理野生,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-📡湾湾频道👉全网,#genre#
+🍄湾湾频道👉全网,#genre#
 
 
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
@@ -520,7 +520,7 @@ GO好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/livee
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
-📡湖北频道👉全网,#genre#
+💥湖北频道👉全网,#genre#
 
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
@@ -559,7 +559,7 @@ GO好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/livee
 鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
 随州广水,http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1704038399-0-0-5c0cb2e7b7e0bc9c67777330c96507ad
 
-📡卫视频道👉全网,#genre#
+🌸卫视频道👉全网,#genre#
 
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
@@ -604,7 +604,7 @@ GO好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/livee
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
 
 
-📡卫视频道👉移动,#genre#
+💐卫视频道👉移动,#genre#
 
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
@@ -782,7 +782,7 @@ CHC动作,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 
-📡卫视频道👉IPV6,#genre#
+🌴卫视频道👉IPV6,#genre#
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
 上海都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
@@ -970,7 +970,7 @@ CHC动作,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3
 黑龙江卫视HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw516667270_434053295/ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8?icpid=3&RTS=1674380632&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 黑龙江卫视 Max16M1080,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1754506897_714399677/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 
-📡综合频道👉IPV6,#genre#
+🌷综合频道👉IPV6,#genre#
 信号测试1 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 信号测试2 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 SiTV游戏风云 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
@@ -1903,7 +1903,7 @@ cetv1
 怀旧剧场,http://47.109.29.60/php/gudo.php?id=hjjc
 风云足球,http://47.109.29.60/php/gudo.php?id=fyzq
 书画,http://47.109.29.60/php/gudo.php?id=sh
-🎣埋堆堆,#genre#
+
 埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
 埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
 埋堆堆3,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
@@ -1967,7 +1967,7 @@ cetv1
 埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23903164
 埋堆堆62,http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
 
-🏓虎牙,#genre#
+🏓虎牙频道,#genre#
 虎牙-周星星,http://43.138.170.29:35455/huya/24470631
 虎牙-林正英,http://43.138.170.29:35455/huya/11342421
 虎牙-沈腾,http://43.138.170.29:35455/huya/11601968
@@ -2142,7 +2142,7 @@ cetv1
 地下交通站,https://ygbh--xingkongbujian.repl.co/huya/11342433
 邻里一家亲,https://ygbh--xingkongbujian.repl.co/huya/11342426
 
-🎾斗鱼,#genre#
+🎾斗鱼频道,#genre#
 粤语综艺,http://epg.112114.xyz/douyu/7919720
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
