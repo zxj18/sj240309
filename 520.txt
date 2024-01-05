@@ -74,7 +74,9 @@
 
 
 { "key": "横版影院", "name": "🍱横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ], "jar": "./lib/jar.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
+{"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"./lib/央视大全.json"},
 
+{"key":"py_cctv_少儿","name":"📺央视｜少儿","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/py_央视少儿.py"},
 
     {"key":"短剧ne","name":"🚦快乐短剧","type":3,"api":"csp_Panda","jar":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb","ext":"https://d.kstore.space/download/6296/json/短剧.json"},   
 {
