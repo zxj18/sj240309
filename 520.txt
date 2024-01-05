@@ -50,6 +50,7 @@
                 "筛选": "1"
             }
         },
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
 
 {      "key": "至圣云(官）",      "name": "💖圣云秒播",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
 {
