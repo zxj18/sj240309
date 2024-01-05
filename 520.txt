@@ -2,7 +2,7 @@
 "spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
 
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;b90b0b641f1e382073125f63f77bb9fe",
-"./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
+"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
