@@ -70,7 +70,6 @@
       "api": "./lib/apiv651drpy2.min.js",
       "ext": "./lib/yt.js"
     },*/
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
 {
 			"key": "lurenjia",
 			"name": "🔥超清1080",
