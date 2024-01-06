@@ -7,6 +7,11 @@
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
+{"key":"77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
+
+
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
+
 
 	{
 			"key": "zy_金鹰资源",
@@ -40,7 +45,7 @@
 				"体育赛事"
 			]
 },
- {
+ /*{
             "key": "996",
             "name": "🎆蓝色秒播",
             "type": 3,
@@ -51,7 +56,7 @@
                 "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
                 "筛选": "1"
             }
-        },
+        },*/
 
 /*{      "key": "至圣云(官）",      "name": "💖圣云秒播",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},*/
 {
@@ -64,14 +69,10 @@
 		    "filterable": 1,
 		    "ext": "http://122.228.84.103:6822/api.php/app/"
 		},
-{"key":"77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-
-
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
 
 
 {"key":"py_cctv_少儿","name":"💁看动画片","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/py_央视少儿.py"},
-{"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"./lib/央视大全.json"},
+/*{"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"./lib/央视大全.json"},*/
 
 
 
