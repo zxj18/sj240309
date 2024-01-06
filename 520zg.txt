@@ -1,6 +1,6 @@
 ﻿{
-	"spider": "./lib/Aoki.jar;md5;c253e1930a210fa5141e5418f1f90949",
-
+	
+"spider":"./lib/HeChengChaXiu7.jar",
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
@@ -13,7 +13,7 @@
 {"key":"py_cctvdc","name":"🇨🇳央视片库","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/py_cctvdc.json"},
    {
       "key": "m1905",
-      "name": "电影",
+      "name": "央视电影",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -23,7 +23,7 @@
     },
     {
       "key": "央视经典",
-      "name": "经典",
+      "name": "🇨🇳央视经典",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
