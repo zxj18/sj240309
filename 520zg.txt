@@ -1,7 +1,7 @@
 ﻿{
 "spider":"./lib/HeChengChaXiu7.jar",
 
-
+	"spider": "./lib/Aoki.jar;md5;c253e1930a210fa5141e5418f1f90949",
 
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
