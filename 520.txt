@@ -194,7 +194,7 @@
 
     {"key": "大米星球","name": "🍚大米星球","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/大米星球.json"},
 
-     {
+    /* {
       "key": "爱迪",
       "name": "🍑欧美视剧",
       "type": 3,
@@ -214,7 +214,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
-        },
+        },*/
 /*{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},*/
 {"key":"csp_Auete","name":"🐼奥特在线","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.aueteys.com/"},
 {"key":"csp_MLYS","name":"🐴毛驴影视","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
