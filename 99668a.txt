@@ -2,39 +2,39 @@
     "urls": [
 
    {
-            "name": "🍱综合大全接口一",
+            "name": "🍱综合大全",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
         },
  
  {
-            "name": "🚒综合大全接口二",
+            "name": "🚒综合大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
-            "name": "🎬玩偶4K专线",
+            "name": "🎬玩偶4K",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.txt"
         },
     {
-            "name": "🇨🇳央视大全专线",
+            "name": "🇨🇳央视大全",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520zg.txt"
         },
 
         {
-            "name": "🍫综合大全备用线路👇",
+            "name": "🍫大全备用👇",
             "url": "https://raw.gitcode.com/njyy/nj/raw/master/520.json"
         },
 
 
 
         {
-            "name": "🎎短剧大全专线",
+            "name": "🎎短剧大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
- {"name": "🐳看动漫专线","url":"https://www.yingm.cc/dm/dm.json"},
+ {"name": "🐳动漫专线","url":"https://www.yingm.cc/dm/dm.json"},
 
   
     {
-            "name": "🍡短剧十四源大全",
+            "name": "🍡短剧十四",
             "url": "https://biu.codered.cloud/wp-content/uploads/2023/11/你的短剧接口.bmp"
         },  
 {
@@ -48,7 +48,7 @@
  {"name": "🐸少儿专线","url":"https://aoki.fun/tvbox/教育.json
 "},
 {
-            "name": "🌴CatT4口",
+            "name": "❤️CatT4口",
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
         },
 
