@@ -8,7 +8,7 @@
 	"sites": [
 {"key":"cctv","name":"🇨🇳央视全频道大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"./lib/央视大全.json"},
 
-{"key":"py_cctv_少儿","name":"🇨🇳看央视动画片","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/py_央视少儿.py"},
+{"key":"py_cctv_少儿","name":"🇨🇳央视动画片","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/py_央视少儿.py"},
 
 {"key": "py_cctv","name": "🇨🇳央视大全","type": 3,"api": "py_cctv",
 "searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/py_cctv.json"},
@@ -72,8 +72,6 @@
 		},
 
 
-{"key":"py_cctv_少儿","name":"💁看动画片","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/py_央视少儿.py"},
-/*{"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"./lib/央视大全.json"},*/
 
 
 
