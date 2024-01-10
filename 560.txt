@@ -375,7 +375,6 @@
 			]
 		},
 
- {      "key": "jszy",      "name": "🛩极速秒播",      "type": 1,      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",      "searchable": 1,      "changeable": 1,      "quickSearch": 1,      "filterable": 1,      "categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片,"灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},  
 {"key":"Freeok","name":"💢Freeok","type":3,"api":"csp_XBPQ","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html","分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿","分类值":"1&2&3&4&12&5","播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36","副标题":"<div class=\"module-item-note\">&&</div>","嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/","线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","线路标题":"<span>&&</small>","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"<p>&&</p>"}},
 /*{
       "key": "影探",
