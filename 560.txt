@@ -66,6 +66,19 @@
 		    "filterable": 1,
 		    "ext": "http://122.228.84.103:6822/api.php/app/"
 		},
+
+{"key": "dr_ikanbot","name": "🌺爱机器人","type": 3,"api": "./lib/apiv956drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "./lib/ikanbot3.js"},
+
+{	"key": "AList",
+			"name": "🤱小雅网盘",
+			"type": 3,
+			"api": "csp_AList",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": "https://pan.shangui.cc/f/w37nTg/xiaoya.txt",
+			"jar": "https://pan.shangui.cc/f/Kz7AU6/custom_spider.jar"
+		},
+
     {
             "key": "索尼",
             "name": "🏵索尼影视",
@@ -514,7 +527,7 @@
     },
     {
       "key": "新浪资源",
-      "name": "🥝新浪影视",
+      "name": "🍄新浪影视",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -576,7 +589,7 @@
   
 {
   "key": "csp_短剧香",
-  "name": "🥝网香短剧",
+  "name": "💐网香短剧",
   "type": 3,
   "api": "csp_XYQHiker",
   "jar": "./lib/xyq910.jar",
@@ -657,18 +670,6 @@
       "api": "./lib/apiv75apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
     },
-
-{"key": "dr_ikanbot","name": "🌺爱机器人","type": 3,"api": "./lib/apiv956drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "./lib/ikanbot3.js"},
-
-{	"key": "AList",
-			"name": "🤱小雅网盘",
-			"type": 3,
-			"api": "csp_AList",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "https://pan.shangui.cc/f/w37nTg/xiaoya.txt",
-			"jar": "https://pan.shangui.cc/f/Kz7AU6/custom_spider.jar"
-		},
 {"key":"DYDS","name":"‍🍳电影大师","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","分类url":"https://dyds36.cyou/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$3#动漫$4#综艺$23"}},
 
     {"key": "大米星球","name": "🍚大米星球","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/大米星球.json"},
