@@ -194,6 +194,57 @@
         },
 
 {"key":"csp_Nmys","name":"🌾农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json"},
+{
+      "key": "js_耐菲",
+      "name": "🥝耐菲影视",
+      "type": 3,
+      "api": "./lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/鸭奈飞.js"
+    },
+
+{
+      "key": "js_6V",
+      "name": "✡️六维磁力",
+      "type": 3,
+      "api": "./lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/6V.js"
+    },
+    {
+      "key": "js_磁力熊",
+      "name": "🐻贝尔磁力",
+      "type": 3,
+      "api": "./lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/bear.js"
+    },
+    {
+      "key": "js_酷吧",
+      "name": "😎酷吧磁力",
+      "type": 3,
+      "api": "./lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/kuba.js"
+    },
+    {
+      "key": "XYQH_电影港",
+      "name": "🛳港口磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "./lib/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "./lib/港口.json"
+    },
+
 
     {
       "key": "车妹",
