@@ -1,6 +1,9 @@
 ﻿{
-"spider":"https://d.kstore.space/download/6651/uyv0t678c488189af47bb91dc108484d17431.jar;md5;3a1219034ed657f925c606543689b8cf",
-"spider": "https://d.kstore.space/download/6651/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
+"spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;3a1219034ed657f925c606543689b8cf",
+"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
+
+
+"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
@@ -37,7 +40,7 @@
 				"台湾剧",
 				"体育赛事"
 			]
-}
+},
  /*{
             "key": "996",
             "name": "🎆蓝色秒播",
@@ -1513,7 +1516,7 @@
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/少儿教育.json"},
 {"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/初中课堂.json"},
-{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/高中课堂.json"},
+{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/高中课堂.json"},*/
 
 
 	{
@@ -1523,7 +1526,7 @@
 			"api": "./lib/apiv4666apiv3128json.html",
 			"searchable": 1,
 			"quickSearch": 1
-		}*/
+		}
 	],
 
   "lives": [
