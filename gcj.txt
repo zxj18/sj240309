@@ -8,7 +8,7 @@
 
 	"sites": [
 
-{"key":"一起看 ","name":"🌺看国产剧app","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1}
+{"key":"一起看 ","name":"🌺看国产剧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1}
 	],
 
   "lives": [
